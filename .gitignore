@@ -7,3 +7,6 @@ build
 dist
 *.egg-info/
 
+native*build
+linux*build
+android*build
